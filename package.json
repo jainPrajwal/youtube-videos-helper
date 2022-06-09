@@ -1,0 +1,15 @@
+{
+  "name": "youtube-videos-helper",
+  "version": "2.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "It helps to get the videos from youtube in the way you want!",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "https": "^1.0.0",
+    "typescript": "^4.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.41"
+  }
+}
